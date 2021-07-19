@@ -1,7 +1,4 @@
 /* Write your CSS here! */
-
-/* BEGIN REQUIRED */
-
 body {
     display: block;
     margin: 8px;
@@ -17,8 +14,6 @@ body {
 .funParagraph {
     color: green;
 }
-
-/* END REQUIRED */
 
 .intro {
     text-align: center;
