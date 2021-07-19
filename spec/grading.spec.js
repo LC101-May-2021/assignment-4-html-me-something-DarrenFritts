@@ -28,6 +28,7 @@ describe ("Grading Tests: ", function () {
 
       window.addEventListener("load", function() {
          container = window.document;
+         console.log(container);
       });
    });
 
